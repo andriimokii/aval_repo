@@ -1,5 +1,5 @@
 {
-  "key": "value",
+  "key": "NULL",
   "my": "name",
   "1": "2"
 }
