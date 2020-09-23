@@ -1,5 +1,6 @@
 {
   "key": "MY_KEY",
   "my": "name",
-  "1": "2"
+  "1": "2",
+  "city": "Kyiv"
 }
